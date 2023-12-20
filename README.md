@@ -561,7 +561,7 @@ for (let i = 0; i < 5; i++) {
 
 Este bucle imprimirá los números del 0 al 4.
 
-## For in
+### For in
 
 El bucle "for...in" se utiliza para recorrer las propiedades de un objeto. Tiene la siguiente estructura:
 
@@ -639,7 +639,7 @@ while (i < 5) {
 
 Este bucle imprimirá los números del 0 al 4, al igual que el bucle **for** anterior.
 
-## Do-while
+### Do-while
 
 El bucle **do-while** es similar al bucle **while**, pero la condición se evalúa al final de cada iteración, lo que garantiza que el código se ejecute al menos una vez. Tiene la siguiente estructura:
 
@@ -724,4 +724,4 @@ En este ejemplo, la función constructora **Persona** se utiliza para crear obje
 
 Las funciones constructoras son útiles cuando se desea crear múltiples objetos con la misma estructura y comportamiento. Al utilizar una función constructora, se puede reutilizar el código y crear objetos de manera más eficiente.
 
-### Finalize este curso en 5:30h
+## Finalize este curso en 5:30h
